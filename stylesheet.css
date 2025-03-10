@@ -5,16 +5,34 @@ h1{
 
 #divID{
     background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
   }
 
-.catHeading{
+.bigHeading{
     font-family: fantasy;
+    
 }
 
 .likes{
     background-color: lightgreen;
+    margin: 10px;
 }
 
 .hates{
     background-color: lightcoral;
+    margin: 10px;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }

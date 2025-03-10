@@ -1,4 +1,8 @@
-.h{
-    color: blue;
+h1{
+    color: purple;
     font-weight: bold;
 }
+
+#divID{
+    background-color: lightblue;
+  }

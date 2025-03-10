@@ -6,3 +6,15 @@ h1{
 #divID{
     background-color: lightblue;
   }
+
+.catHeading{
+    font-family: fantasy;
+}
+
+.likes{
+    background-color: lightgreen;
+}
+
+.hates{
+    background-color: lightcoral;
+}
